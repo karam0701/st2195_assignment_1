@@ -1,6 +1,6 @@
 ---
 title: "R Notebook"
 ---
-#St2195 Assignment 1
+# St2195 Assignment 1
 This repository contains code to print all integers from 1 to 10 in R and Python.
 
