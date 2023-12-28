@@ -1,0 +1,17 @@
+---
+title: "Printing integers"
+author: "Karam Kaur"
+output:
+  html_document:
+    df_print: paged
+---
+
+# Printing a list of integers using R
+
+This code shows how to print all integers from 1 to 10 (including 1 and 10) to screen on an RScript file.
+
+```{r}
+for (i in 1:10) {
+  print (i) }
+```
+
